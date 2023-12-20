@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE casting [
+ <!ELEMENT 'casting' (anime+)>
+ <!ELEMENT anime ('name,episode,Series,shinobi,evil,release,toprank')>
+ <!ELEMENT name (#PCDATA)>
+ <!ELEMENT episode (#PCDATA)>
+ <!ELEMENT Series (#PCDATA)>
+ <!ELEMENT  shinobi (#PCDATA)>
+ <!ELEMENT evil (#PCDATA)>
+ <!ELEMENT release (#PCDATA)>
+ <!ELEMENT toprank (#PCDATA)>
+]>
+
+
+<casting>
+    <anime>
+        <name>Naruto</name>
+        <episode>800</episode>
+        <Series>1</Series>
+        <shinobi>Seven Shinobi in Naruto Series</shinobi>
+        <evil>Madara uchiha , Itachi Uchiha , Obito Uchiha and Pain etc.</evil>
+        <release>2017</release>
+        <toprank>No 1</toprank>
+    </anime>
+    <anime>
+        <name>Naruto</name>
+        <episode>800</episode>
+        <Series>1</Series>
+        <shinobi>Seven Shinobi in Naruto Series</shinobi>
+        <evil>Madara uchiha , Itachi Uchiha , Obito Uchiha and Pain etc.</evil>
+        <release>2017</release>
+        <toprank>No 1</toprank>
+    </anime>
+    <anime>
+        <name>Naruto</name>
+        <episode>800</episode>
+        <Series>1</Series>
+        <shinobi>Seven Shinobi in Naruto Series</shinobi>
+        <evil>Madara uchiha , Itachi Uchiha , Obito Uchiha and Pain etc.</evil>
+        <release>2017</release>
+        <toprank>No 1</toprank>
+    </anime>
+    <anime>
+        <name>Naruto</name>
+        <episode>800</episode>
+        <Series>1</Series>
+        <shinobi>Seven Shinobi in Naruto Series</shinobi>
+        <evil>Madara uchiha , Itachi Uchiha , Obito Uchiha and Pain etc.</evil>
+        <release>2017</release>
+        <toprank>No 1</toprank>
+    </anime>
+    <anime>
+        <name>Naruto</name>
+        <episode>800</episode>
+        <Series>1</Series>
+        <shinobi>Seven Shinobi in Naruto Series</shinobi>
+        <evil>Madara uchiha , Itachi Uchiha , Obito Uchiha and Pain etc.</evil>
+        <release>2017</release>
+        <toprank>No 1</toprank>
+    </anime>
+</casting>
